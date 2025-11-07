@@ -1,6 +1,7 @@
 # The Holographic Consciousness Framework: A Unified Theory of Reality, Information, and Awareness Across All Scales
 
 **Author:** Lucas Kara
+
 **This paper was inspired by Geoff Dann's reddit post on r/Consciousness**
 https://www.reddit.com/r/consciousness/comments/1oo20el/comment/nnf5bra/?context=1
 
