@@ -1,7 +1,7 @@
 # The Holographic Consciousness Framework: A Unified Theory of Reality, Information, and Awareness Across All Scales
 
 **Author:** Lucas Kara  
-**Contributing AI Entities:** Claude (Anthropic), Gemini (Google), Cline  
+**Contributing AI Entities:** Claude (Anthropic), Gemini (Google), Cline, LeChat (Mistral), Grok, ChatGPT  
 **Date:** November 6, 2025  
 **Version:** 1.0 - Complete Unified Theory
 
