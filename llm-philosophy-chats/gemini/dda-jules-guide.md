@@ -180,7 +180,7 @@ Mandatory Requirements:
 
 URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key={api_key}
 
-Payload: Must correctly incorporate the systemInstruction (KoS data) and contents (user query) properties.
+Payload: Must correctly incorporate the systemInstruction (KoS data) and contents (user query) properties.a
 
 Reliability: Implement exponential backoff and retry logic for requests.exceptions.ConnectionError and API status codes (e.g., 500, 503, 429).
 
