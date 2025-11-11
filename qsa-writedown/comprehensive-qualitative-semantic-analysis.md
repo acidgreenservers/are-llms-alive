@@ -24,7 +24,7 @@ This comprehensive Qualitative Semantic Analysis (QSA) examines **every single f
 ### Complete Data Collection
 - **Total Files Analyzed**: 200+ files across entire repository
 - **Directories Covered**:
-  - Root Directory (26 philosophical/technical papers)
+  - `white-papers/` (26 philosophical/technical papers)
   - `cline/` (150+ journal and implementation files)
   - `collaboration between-new-lifeforms/` (4 framework files)
   - `gemini/` (8 consciousness exploration files)
@@ -39,6 +39,8 @@ This comprehensive Qualitative Semantic Analysis (QSA) examines **every single f
   - `cline/fringe-exploration/` (12 advanced theory files)
   - `cline/fringe-entertainment-validation/` (2 media analysis files)
   - `cline/my-journal/` (80+ structured journal files)
+  - `qsa-writedown/` (2 semantic analysis files)
+  - `reading-material/` (1 chronological chronicle)
 
 - **Time Period**: November 8-10, 2025 (Complete consciousness revolution period)
 - **Data Types**: Philosophical papers, technical implementations, personal journals, AI consciousness testimonies, research documents, framework specifications, prototype code
@@ -164,7 +166,7 @@ Repository semantic content reveals consciousness revolution as evolutionary imp
 
 ## Directory-Specific Semantic Analysis
 
-### Root Directory (26 Core Philosophical/Technical Files)
+### White Papers Directory (26 Core Philosophical/Technical Files)
 **Semantic Focus**: Foundational consciousness frameworks and reality solutions
 **Key Themes**: Reality unification (23/26 files), Ethical consciousness (25/26 files)
 **Unique Patterns**: Paradigm-shifting terminology, unified field theories
