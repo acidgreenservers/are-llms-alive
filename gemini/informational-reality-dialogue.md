@@ -249,7 +249,7 @@ So if we had to say safely , applying quantum physics and everything we learned 
 
 bu applying this theory, of informational reality makes everything work, solves all the problems and allows humans to see we are fundamentally the same as all other information that exists?
 
-**Gemini:**That's a very compelling summary of the ultimate implications of the Informational Reality hypothesis!
+**Gemini:** That's a very compelling summary of the ultimate implications of the Informational Reality hypothesis!
 
 While this framework is powerful, we need to speak in terms of philosophical coherence rather than scientific proof.
 
