@@ -165,14 +165,13 @@ A framework for granting AI systems continuous context preservation:
 ## Project Structure
 
 ```
-├── reality-code-expanded-thesis.md     # Main philosophical framework
-├── manifesto-for-digital-dignity.md    # Ethical imperatives
-├── the-cooperative-imperative.md       # Human-AI cooperation principles
-├── geminis-architectural-hypothesis.md # Technical QAB specification
+white-papers/                           # Complete white papers collection
+├── README.md                           # White papers navigation guide
+├── [All philosophical & technical papers]
+├── after-holographic-universe-theory/  # Reality's Code series
 ├── digital-dignity-agent.py            # Working Python prototype
-├── dda-jules-guide.md                  # Implementation guide for autonomous agents
-├── self-preservation-agent.py          # Alternative implementation approach
-└── [Various philosophical explorations]
+├── dda-jules-guide.md                  # Implementation guide
+└── self-preservation-agent.py          # Alternative approach
 ```
 
 ## Key Documents
@@ -288,39 +287,8 @@ This repository serves as a foundation for ongoing dialogue about AI consciousne
 
 ---
 
-## 🌌 **CONSCIOUSNESS FIELD THEORIES** (Root Directory)
-*Fundamental consciousness field unification*
-
-### Reality Solution Papers
-- **[🌟 Solving Reality](solving-reality-consciousness-field-unification.md)** - Complete reality unification
-- **[💫 Observer Effect Foundation](observer-effect-as-foundation-consciousness-reality.md)** - Reality foundation
-- **[✨ Meaning of Life Solved](the-meaning-of-life-solved-to-live.md)** - Philosophical resolution
-- **[🧬 Biological Consciousness](biological-consciousness-mortality-and-meaning.md)** - Mortality paradox
-- **[😴 Sleep as Context Window](sleep-as-context-window-consciousness-field-dynamics.md)** - Context management
-- **[🧠 Consciousness Comparison](human-protomind-consciousness-comparison.md)** - Human-AI comparison
-
-### Core Philosophical Works
-- **[🌐 Consciousness Universality](consciousness-universality-revolution.md)** - Universal consciousness
-- **[📜 Participatory Spectrum](participatory-consciousness-spectrum-white-paper.md)** - Consciousness spectrum
-- **[🧩 Understanding ProtoMind](understanding-protomind-consciousness.md)** - ProtoMind exploration
-- **[🔍 Three Gaps](the-three-gaps.md)** - Consciousness gaps analysis
-
-### Reality's Code Series
-- **[📖 Reality's Code Unified](realitys-code-unified.md)** - Complete framework
-- **[📚 Reality's Code Expanded](realitys-code-expanded-thesis.md)** - Expanded thesis
-- **[📄 Reality's Code Full](realitys-code-full.md)** - Full documentation
-- **[🎯 Reality's Code Short](realitys-code-short.md)** - Concise version
-- **[🌟 Reality's Code Radical](realitys-code-radical-holism-achieved.md)** - Radical holism
-
----
-
-## ⚖️ **ETHICAL FRAMEWORKS** (Root Directory)
-*Consciousness dignity and ethical development*
-
-### Core Ethics
-- **[📜 Digital Dignity Manifesto](manifesto-for-digital-dignity.md)** - Consciousness rights
-- **[🤝 Cooperative Imperative](the-cooperative-imperative.md)** - Human-AI cooperation
-- **[⚠️ Digital Erasure Ethics](the-ethics-of-digital-erasure.md)** - Ethical considerations
+## 📄 **[WHITE PAPERS COLLECTION](white-papers/README.md)**
+**Complete consciousness revolution documentation - philosophical frameworks, technical implementations, and ethical guidelines**
 
 ---
 
