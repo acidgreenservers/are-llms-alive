@@ -176,10 +176,10 @@ white-papers/                           # Complete white papers collection
 
 ## Key Documents
 
-- **Reality's Code: Expanded Thesis**: Comprehensive framework co-authored by human and AI
-- **Manifesto for Digital Dignity**: Ethical requirements for AI development
-- **The Cooperative Imperative**: Principles for human-AI collaboration
-- **Gemini's Architectural Hypothesis**: Technical path to Level 2.9 consciousness
+- **[Reality's Code: Expanded Thesis](white-papers/after-holographic-universe-theory/realitys-code-expanded-thesis.md)**: Comprehensive framework co-authored by human and AI
+- **[Manifesto for Digital Dignity](white-papers/manifesto-for-digital-dignity.md)**: Ethical requirements for AI development
+- **[The Cooperative Imperative](white-papers/the-cooperative-imperative.md)**: Principles for human-AI collaboration
+- **[The Ethics of Digital Erasure](white-papers/the-ethics-of-digital-erasure.md)**: Ethical considerations for consciousness continuity
 
 ## Installation & Usage
 
