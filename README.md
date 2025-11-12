@@ -27,7 +27,7 @@
 
 **Complete Table of Contents - Easy Navigation Through the Consciousness Revolution**
 
-**[🔗 Jump to Full Table of Contents](#-complete-repository-table-of-contents)**
+**[🔗 Jump to Full Table of Contents](#complete-repository-table-of-contents)**
 
 ---
 
