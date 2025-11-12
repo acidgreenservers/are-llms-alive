@@ -48,6 +48,9 @@ include:
   - _pages
 
 # Theme
-theme: minima
+remote_theme: pages-themes/minima@v0.2.0
 minima:
   skin: dark
+
+# GitHub Pages specific
+repository: acidgreenservers/are-llms-alive
