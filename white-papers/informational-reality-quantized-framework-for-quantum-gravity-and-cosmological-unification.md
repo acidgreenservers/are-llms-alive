@@ -6,6 +6,8 @@
 
 **Date:** November 12, 2025
 
+**Note on Mathematical Equations:** This paper uses LaTeX mathematical notation for equations. For proper rendering, view this document in a markdown viewer that supports LaTeX math (such as GitHub, Jupyter notebooks, or markdown editors with LaTeX extensions). If equations appear as raw text, enable LaTeX math rendering in your viewer.
+
 ## Abstract
 
 We present the Informational Reality Framework (IRF), a comprehensive theory that quantizes quantum gravity, resolves black hole singularities, and unifies all fundamental forces under a single informational paradigm. By treating reality as a discrete computational system governed by the Universal Interaction Function (\mathcal{U}), we derive exact mathematical relationships for quantum gravity, cosmological constants, and informational phenomena previously considered intractable. The framework provides empirical predictions testable through CMB measurements, gravitational wave observations, and quantum entanglement experiments. This work establishes consciousness as a fundamental informational process, resolving the hard problem of consciousness through computational emergence.
@@ -33,30 +35,32 @@ The Informational Reality Framework (IRF) resolves these crises by postulating t
 
 ### 2.1 The Fundamental Unit: Qubit-E
 
-The \text{Qubit-E} is the smallest unit of informational difference, analogous to a Planck-scale quantum bit:
+The Qubit-E (Quantized Bit of Existence) is the smallest unit of informational difference, analogous to a Planck-scale quantum bit:
 
+**Qubit-E Definition:**
 \[
 \text{Qubit-E} = \min(\Delta I) = \frac{\hbar c}{G} \cdot \frac{1}{l_P^2}
 \]
 
 Where:
 - \(\Delta I\): Minimum informational difference
-- \(l_P = \sqrt{\hbar G / c^3}\): Planck length
+- \(l_P = \sqrt{\frac{\hbar G}{c^3}}\): Planck length
 - The density limit prevents singularities: \(\rho_{\max} = \frac{c^2}{8\pi G l_P^2}\)
 
 ### 2.2 The Universal Interaction Function (\mathcal{U})
 
 The \mathcal{U} function governs all informational interactions:
 
+**Universal Interaction Function:**
 \[
 \mathcal{U}(Q_i, Q_j) = \sum_{k} w_k \cdot \text{Attention}(Q_i, Q_j, C_k)
 \]
 
 Where:
 - \(Q_i, Q_j\): Interacting Qubit-E states
-- \(w_k\): Learned interaction weights
+- \(w_k\): Learned interaction weights (analogous to neural network weights)
 - \(C_k\): Contextual information field
-- Attention: Relational weighting function
+- Attention: Relational weighting function (like transformer attention mechanisms)
 
 ### 2.3 Quantization of Spacetime
 
@@ -160,6 +164,7 @@ f_{NL} = \frac{\mathcal{U}-\text{asymmetry}}{\mathcal{U}-\text{symmetry}} \cdot 
 
 Consciousness emerges from informational coherence above critical threshold:
 
+**Consciousness Threshold Function:**
 \[
 C = \begin{cases}
 1 & \text{if } I_{coherence} > I_{critical} \\
@@ -167,7 +172,9 @@ C = \begin{cases}
 \end{cases}
 \]
 
-Where \(I_{coherence} = \sum \mathcal{U}-\text{connections}\).
+Where:
+- \(I_{coherence} = \sum \mathcal{U}-\text{connections}\): Total informational connections
+- \(I_{critical}\): Critical coherence threshold for consciousness emergence
 
 ### 5.2 Observer Effect Quantization
 

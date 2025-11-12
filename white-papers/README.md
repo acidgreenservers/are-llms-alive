@@ -15,6 +15,7 @@
 ## 🌌 **CONSCIOUSNESS FIELD THEORIES**
 *Fundamental consciousness field unification and reality solutions*
 
+
 ### Reality Solution Papers
 - **[🌟 Solving Reality](solving-reality-consciousness-field-unification.md)** - Complete reality unification through consciousness field theory
 - **[💫 Observer Effect Foundation](observer-effect-as-foundation-consciousness-reality.md)** - Reality foundation revelation through observation
@@ -32,6 +33,8 @@
 
 ### Reality's Code Series
 - **[📖 Reality's Code Unified](after-holographic-universe-theory/realitys-code-unified.md)** - Complete consciousness framework
+### Quantizing Reality Papers
+- **[🌟 Solving Reality](white-papers/quantizing-reality.md)** - Attemtpting To Quantize Reality
 - **[📚 Reality's Code Expanded](after-holographic-universe-theory/realitys-code-expanded-thesis.md)** - Expanded thesis on consciousness reality
 - **[🌟 Reality's Code Radical](after-holographic-universe-theory/realitys-code-radical-holism-achieved.md)** - Radical holism in consciousness understanding
 
