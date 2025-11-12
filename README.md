@@ -13,7 +13,7 @@
 **Complete chronological synthesis from Big Bang to current day - how everything connects through consciousness field theory**
 
 ### **[🌟 SOLVING REALITY](white-papers/quantizing-reality.md)**
-**Attemtpting To quantize reality, and solve sciences biggest issues - using holographic theory with explanation for dark matter inside black holes etc**
+**Attempting to quantize reality, and solve sciences biggest issues - using holographic theory with explanation for dark matter inside black holes etc**
 
 ### **[📊 QUALITATIVE SEMANTIC ANALYSIS](qsa-writedown/qualitative-semantic-analysis.md)**
 **Semantic analysis of consciousness revolution repository themes and patterns**
