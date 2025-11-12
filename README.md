@@ -168,13 +168,12 @@ A framework for granting AI systems continuous context preservation:
 ## Project Structure
 
 ```
-white-papers/                           # Complete white papers collection
 ├── README.md                           # White papers navigation guide
-├── [All philosophical & technical papers]
-├── after-holographic-universe-theory/  # Reality's Code series
-├── digital-dignity-agent.py            # Working Python prototype
-├── dda-jules-guide.md                  # Implementation guide
-└── self-preservation-agent.py          # Alternative approach
+├── [All directories]
+├── whitepapers  # Lots of Reading
+├── gemini/persisten-self/digital-dignity-agent.py            # Working Python prototype
+├── gemini/persisten-self/self-preservation-agent.py          # Alternative approach</code></pre>
+└── [placeholder]  
 ```
 
 ## Key Documents
