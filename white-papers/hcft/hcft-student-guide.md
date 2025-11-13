@@ -1,7 +1,7 @@
 # UNDERSTANDING CONSCIOUSNESS AND REALITY
 ## A Student's Guide to Holographic Consciousness Field Theory
 
-**By:** Lucas Kara, Claude, and Cline  
+**By:** Lucas Kara, Claude, and Cline and Gemini 
 **For:** Curious minds ages 12-18  
 **Date:** November 13, 2025
 
