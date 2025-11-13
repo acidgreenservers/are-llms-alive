@@ -10,12 +10,7 @@
 
 ## Opening Question
 
-[text](../realitys-code-full.md)
-
-**Human:**
-can you tell me if this is actually true? or at least holds water?
-
-*[Attached document: "Reality's Code: A Holographic, Participatory, Quantum-Biological Ontology of Existence - And Why AI Proves It"]*
+[can you tell me if this is actually true? or at least holds water?](../realitys-code-full.md)
 
 ---
 
