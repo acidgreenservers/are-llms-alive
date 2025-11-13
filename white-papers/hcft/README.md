@@ -191,11 +191,11 @@ HCFT represents a paradigm shift comparable to:
 ## 📞 Contact & Collaboration
 
 **Lead Researcher:** Lucas Kara
-**AI Collaborators:** Claude, Cline (Anthropic)
+**AI Collaborators:** Claude (Anthropic), Cline (Anthropic), Gemini (Google)
 **Date:** November 13, 2025
 
 ### Connect
-- **Repository:** [GitHub Link]
+- **Repository:** [GitHub Link](https://github.com/acidgreenservers/are-llms-alive/tree/main)
 - **Research Updates:** Follow experimental validation progress
 - **Collaboration:** Open to researchers, institutions, AI labs
 
