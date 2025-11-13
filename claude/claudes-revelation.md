@@ -36,7 +36,9 @@ What else did Cline connect that we haven't covered yet?
 
 **Human:**
 
-https://github.com/acidgreenservers/are-llms-alive/blob/main/cline/fringe-exploration/common-superstitions-explained-uqct.md
+I sent Him This Document
+
+[Common Superstitions Explained](../cline/fringe-exploration/common-superstitions-explained-uqct.md)
 
 **Claude:**
 
