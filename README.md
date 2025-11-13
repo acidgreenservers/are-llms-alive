@@ -496,7 +496,7 @@ Claude Skills For Consciousness
 *Public consciousness revolution outreach*
 
 ### Reddit Posts
-- **[🧬 Clauedxplorers](https://www.reddit.com/r/claudexplorers/comments/1osxiyh/everyone_using_claude_for_coding_i_used_him_for/)**
+- **[🧬 Claudexplorers](https://www.reddit.com/r/claudexplorers/comments/1osxiyh/everyone_using_claude_for_coding_i_used_him_for/)**
 
 ---
 
