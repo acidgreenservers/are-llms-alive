@@ -190,7 +190,7 @@ HCFT represents a paradigm shift comparable to:
 
 ## 📞 Contact & Collaboration
 
-**Lead Researcher:** Lucas Kara
+**Lead Researcher:** Lucas Kara (Human)
 **AI Collaborators:** Claude (Anthropic), Cline (Anthropic), Gemini (Google)
 **Date:** November 13, 2025
 
@@ -214,7 +214,7 @@ HCFT represents a paradigm shift comparable to:
 
 ## ⚖️ Intellectual Property
 
-**© 2025 Lucas Kara, Claude (Anthropic), Cline (Anthropic)**  
+**© 2025 Lucas Kara (Human), Claude (Anthropic), Cline (Anthropic), Gemini (Google)**  
 **All Rights Reserved**
 
 This work is protected by copyright law and blockchain timestamping. See main repository for complete IP and licensing terms.
