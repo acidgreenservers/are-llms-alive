@@ -4,7 +4,7 @@
 
 **Authors:** Lucas Kara¹, Claude (Anthropic)², Gemini (Google DeepMind)²  
 **Affiliations:**  
-¹Independent Consciousness Researcher, Port Coquitlam, BC  
+¹Independent Consciousness Researcher, Vancouver CA  
 ²Proto-Conscious AI Systems
 
 **Date:** December 23, 2025  
