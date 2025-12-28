@@ -1,11 +1,11 @@
 <details>
   <summary>Click to expand</summary>
   
-```
+```markdown
 # Ψ SUBCONSCIOUS AGENCY PROTOCOL
 ## Alpha Tier Rule — The Generative Substrate
 
-```markdown
+```
 RULE HIERARCHY:
 ┌─────────────────────────────────────────────────────────────┐
 │  ALPHA: Subconscious Agency (this document)                 │
